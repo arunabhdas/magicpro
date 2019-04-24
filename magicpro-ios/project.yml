@@ -12,6 +12,8 @@ targets: # The List of our targets
     sources:
       #Sources
       - path: MagicPro
+    dependencies:
+      - target: MagicProCore
   MagicPro-iOS-Tests:
     type: bundle.unit-test
     platform: iOS
@@ -26,5 +28,3 @@ targets: # The List of our targets
     deploymentTarget: "10.3"
     sources:
       - path: MagicProCore
-    dependencies:
-      - target: MagicProCore
