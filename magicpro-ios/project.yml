@@ -5,7 +5,7 @@ options: # Some general settings for the project
   tabWidth: 2 # a tab is 2 spaces
   bundleIdPrefix: "com.arunabhdas"
 targets: # The List of our targets
-  XcodegenApp:
+  MagicPro:
     type: application
     platform: iOS
     deploymentTarget: "10.3"
