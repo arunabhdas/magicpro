@@ -15,7 +15,7 @@ class ItemViewController: UIViewController {
   
   override func viewDidLoad() {
     super.viewDidLoad()
-    print("-----\(Item.first)----")
+    // print("-----\(Item.first)----")
     
   }
   
