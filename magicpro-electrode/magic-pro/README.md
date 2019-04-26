@@ -1,5 +1,5 @@
 # MagicPro [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Do or do not, there is no try
+> 
 
 ## Installation
 
@@ -16,7 +16,7 @@ magicPro('Rainbow');
 ```
 ## License
 
-unlicense © [Arunabh Das]()
+MIT © [Arunabh Das]()
 
 
 [npm-image]: https://badge.fury.io/js/MagicPro.svg
